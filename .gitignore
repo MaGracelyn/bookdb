@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# React build folder
+frontend/build/
+
+# Logs
+*.log
